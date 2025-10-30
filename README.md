@@ -1,2 +1,2 @@
-# Rhapsody_H
+# rhapsody_H
 AI Music Generator with Dual Vocal &amp; Dynamic Genre Editing
